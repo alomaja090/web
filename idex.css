@@ -1,0 +1,175 @@
+
+.main{
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-image: url(/pic/flux.webp) no repeat;
+    background-repeat: no-repeat;
+}
+body{
+    background-image: url(/pic/flux.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: linear-gradient(rgb(0, 0, 0.8)50%,rgb(0, 0, 0.8)50%,);
+}
+.navigation{
+    height: 10vh;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    text-transform: uppercase;
+    width:auto;
+    padding-top: 20px;
+}
+}
+.nav-logo{
+    align-items: center;
+    height: 10vh;
+    display: flex;
+    position: sticky;
+    top: 0%;
+    z-index: 1px;
+    color: #992c2c;
+}
+.h2{
+    color: rgb(156, 199, 113);
+    font-size: 50px;
+}
+.subtitle{
+    color: rgb(202, 126, 54);
+    padding-left: 2em;
+    font-weight: 1px;
+    background-position: 1vh;
+    background-size: contain;
+}
+
+
+.nav-links a{
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: rgb(156, 199, 113);
+    margin-left: 20px;
+    height: 10vh;
+    align-items: center;
+    padding-top: 10px;
+    transition: 0.4s ease;
+}
+.nav-links a:hover{
+    color:  BA9B41 ;
+    background-color: rgb(216, 23, 87);
+    height: 2px;
+}
+}
+.nav-links{
+    cursor: pointer;
+}
+
+.nav-links{
+    display: flex;
+    list-style-type: none;
+    transition: 0.4s ease;
+}
+.nav-links:hover{
+    column-rule: rgb(34, 63, 33);
+}
+
+.box{
+    border-image: 30;
+    border-image: 20px;
+    background-color: rgb(60, 230, 173);
+    height: 80;
+    width: 100;
+    margin-inline: 2vh;
+    align-content: center;
+    box-shadow: 50vh;
+    opacity: 100%;
+    justify-content: center;
+}
+.container{
+    animation-duration: 2.5s;
+    text-decoration-style: dashed;
+    flex-grow: 40vh;
+    display: inline;
+    display: flex;
+    overscroll-behavior-x: 2;
+    opacity: inherit;
+    border-radius: 50;
+    order: center;
+    margin: 10px;
+}
+p{
+    display: inline;
+    display: flex;
+    font-size: 30px;
+    align-content: center;
+    color: rgb(43, 180, 30);
+    background-size: 10px;
+    text-decoration: none;
+    text-shadow: 2px;
+    text-size-adjust: center;
+}
+.album-title{
+    text-decoration: none;
+    padding-top: 2px;
+    border-color: rgb(128, 85, 21);
+    color: rgb(187, 176, 18);
+    background-origin: border-box;
+}
+.subtitle{
+    border-color: black;
+    border-radius: 50vh;
+    box-shadow: blueviolet;
+    box-sizing: content-box;
+    box-decoration-break: slice;
+    text-align: center;
+    text-transform: none;
+    text-overflow: 40px;
+}
+.home{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(/pic/flux.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.home{
+    background-position: left;
+    font-size: 4.5rem;
+}
+.nav-link{
+    transition: .4s ease;
+}
+.nav-link a:hover{
+    color: chartreuse;
+}
+
+.te{
+    padding: 100px;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font weight: 80px;
+    transform: translate(-50% -50%)
+}
+.te{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 800px;
+    color: rgb(255, 255, 255);
+}
+.tet{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 10px;
+    font-family: serif;
+    color: rgb(255, 255, 255);
+}
+.ta{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 8px;
+    color: rgb(255, 255, 255);
+}
